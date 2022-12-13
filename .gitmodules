@@ -1,0 +1,9 @@
+[submodule "alpha_api"]
+	path = alpha_api
+	url = https://github.com/priyamghosh1/alpha_api.git
+[submodule "alpha_angular"]
+	path = alpha_angular
+	url = https://github.com/priyamghosh1/alpha_angular.git
+[submodule "production_alpha"]
+	path = production_alpha
+	url = https://github.com/priyamghosh1/production_alpha.git
